@@ -96,6 +96,7 @@ A special thankyou to the following people, without their help, advice, and guid
 [github](https://github.com/7D2D)
 
 - JaxTeller
+
 [Github](https://github.com/JaxTeller718/JaxModlets)
 
 [Ravenhearst](https://ravenhearst.enjin.com/)
@@ -104,6 +105,7 @@ A special thankyou to the following people, without their help, advice, and guid
 
 [nexus](https://www.nexusmods.com/users/48679478)
 - Khaine 
+
 [youtube](https://www.youtube.com/channel/UC3yu4ucbt_3_KJAki5jncBg)
 
 All assets are paid/licensed for free use/royalty free. 
