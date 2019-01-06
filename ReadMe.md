@@ -12,7 +12,9 @@ Some guns will skip your game upon loading in the hotbar. Their file size is qui
 Custom Weapons and Attachments (ACOG only at the moment)
 Fully craftable, gated by progression, added to open world loot table, fully repairable/modable, custom audio, custom fire rates, custom damage and modifiers, and best of all, custom sighting.
 This entire mod is writen in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no ingame info text menu. All other UI works/functions perfectly.
-
+Silencers are finely tuned for game balance. Using a silencer will now reduce the amount of zombies in the surround area that flock to your POI, and inside alerts. You can now strategically move through a building and pick zombies off one by one with percision aim!
+[Showcase of the Silencer Changes](https://youtu.be/aWac7jp1qVE)
+[For reference, old silencer on an AK](https://youtu.be/aWac7jp1qVE)
 Modlet also comes with a placeable Target block with a center mark. Craftable at a very low cost for easy target use with friends! [Preview of how the target works](https://www.youtube.com/watch?v=YNcjQHJT3hE)
 
 ![Main Image](https://i.imgur.com/RvuLBup.png)
@@ -76,15 +78,31 @@ Most guns are based off of existing ingame components (Steel, Forged Iron, Mecha
 ## A special thankyou!
 A special thankyou to the following people, without their help, advice, and guidance this work would not be possible. These people are the backbone to our community, lending their skills to us all so we can complete amazing pieces of art for everyone to enjoy! Very much respect and admiration for these creators!
 - Ynd21
+
 - Sphereii
+
 - Vedui
+
 [youtube](https://www.youtube.com/channel/UC9DgwaUiqcNO9oUuiFQMh6w)
+
 [twitch](https://www.twitch.tv/Vedui42)
+
 [twitter](https://twitter.com/Vedui42)
+
 - XythQ 
+
 [youtube](https://www.youtube.com/channel/UCUAR3Bc_Z97lyT4zeI3-dcg) 
+
 [github](https://github.com/7D2D)
+
 - JaxTeller
+[Github](https://github.com/JaxTeller718/JaxModlets)
+
+[Ravenhearst](https://ravenhearst.enjin.com/)
+
+[youtube](https://www.youtube.com/channel/UCNVr9JmOGFpD4RCu4vUZfog/featured?view_as=subscriber)
+
+[nexus](https://www.nexusmods.com/users/48679478)
 - Khaine 
 [youtube](https://www.youtube.com/channel/UC3yu4ucbt_3_KJAki5jncBg)
 
