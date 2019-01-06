@@ -15,7 +15,7 @@ This entire mod is writen in xpath, no edits needed to any core files. Sadly, no
 
 Modlet also comes with a placeable Target block with a center mark. Craftable at a very low cost for easy target use with friends! [Preview of how the target works](https://www.youtube.com/watch?v=YNcjQHJT3hE)
 
-![Main Image](https://imgur.com/RvuLBup)
+![Main Image](https://i.imgur.com/RvuLBup.png)
 
 ## Crafting requirements and information:
 All guns and ammo are tied to progression system for crafting. This is located as a NEW perk under INTELLECT Attribute: Craftsmanship Perks. [Preview video](https://www.youtube.com/watch?v=Ca4bFOUGNZs)
