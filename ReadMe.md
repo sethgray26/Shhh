@@ -55,7 +55,7 @@ All guns and ammo are tied together via progression. When you unlock the firearm
 
 ## CRAFTING COSTS:
 
-Most guys are based off of existing ingame components (Steel, Forged Iron, Mechanical Parts, Duct Tape, Glue, Wood, etc). The cost for these weapons is high, especially end-game weapons such as the Chaingun and Golden Gun.
+Most guns are based off of existing ingame components (Steel, Forged Iron, Mechanical Parts, Duct Tape, Glue, Wood, etc). The cost for these weapons is high, especially end-game weapons such as the Chaingun and Golden Gun.
 
 
 ## How to install
