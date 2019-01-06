@@ -13,8 +13,11 @@ Custom Weapons and Attachments (ACOG only at the moment)
 Fully craftable, gated by progression, added to open world loot table, fully repairable/modable, custom audio, custom fire rates, custom damage and modifiers, and best of all, custom sighting.
 This entire mod is writen in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no ingame info text menu. All other UI works/functions perfectly.
 Silencers are finely tuned for game balance. Using a silencer will now reduce the amount of zombies in the surround area that flock to your POI, and inside alerts. You can now strategically move through a building and pick zombies off one by one with percision aim!
+
 [Showcase of the Silencer Changes](https://youtu.be/aWac7jp1qVE)
+
 [For reference, old silencer on an AK](https://youtu.be/aWac7jp1qVE)
+
 Modlet also comes with a placeable Target block with a center mark. Craftable at a very low cost for easy target use with friends! [Preview of how the target works](https://www.youtube.com/watch?v=YNcjQHJT3hE)
 
 ![Main Image](https://i.imgur.com/RvuLBup.png)
