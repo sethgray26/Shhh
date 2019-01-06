@@ -18,7 +18,7 @@
 		<item name="338 Bullet" count="8,24"/>
 	</lootgroup>
 	
-	<lootgroup name="1911" count="all">
+	<lootgroup name="a1911" count="all">
 		<item name="1911" count="1"/>
 		<item name="45ACP Bullet" count="4,16"/>
 	</lootgroup>
@@ -118,9 +118,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='6']">	
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="DBS" count="1" prob="0.7"/>
 </append>
 
@@ -128,11 +128,11 @@
 <append xpath="/lootcontainers/lootcontainer[@id='11']">
 	<item group="luger" count="1" prob="1.2"/>
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
+	<item group="a1911" count="1" prob="0.6"/>
 	<item group="Glock40" count="1" prob="0.5"/>
 	<item group="DesertEagle" count="1" prob="0.3"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="DBS" count="1" prob="0.7"/>
 </append>
 
@@ -140,21 +140,21 @@
 <append xpath="/lootcontainers/lootcontainer[@id='24']">
 	<item group="luger" count="1" prob="1.2"/>
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
+	<item group="a1911" count="1" prob="0.6"/>
 	<item group="Glock40" count="1" prob="0.5"/>
 	<item group="DesertEagle" count="1" prob="0.3"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="DBS" count="1" prob="0.7"/>
 </append>
 
 <!-- Supply drop General -->
 <append xpath="/lootcontainers/lootcontainer[@id='34']">
-	<item group="1911" count="1" prob="0.6"/>
+	<item group="a1911" count="1" prob="0.6"/>
 	<item group="Glock40" count="1" prob="0.5"/>
 	<item group="DesertEagle" count="1" prob="0.3"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
@@ -168,9 +168,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='36']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="DBS" count="1" prob="0.7"/>
 </append>
 
@@ -178,9 +178,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='42']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="DBS" count="1" prob="0.7"/>
 </append>
 
@@ -193,9 +193,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='41']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
@@ -215,9 +215,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='50']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
@@ -237,11 +237,11 @@
 
 <!-- Treasure Chest -->
 <append xpath="/lootcontainers/lootcontainer[@id='61']">
-	<item group="1911" count="1" prob="0.6"/>
+	<item group="a1911" count="1" prob="0.6"/>
 	<item group="Glock40" count="1" prob="0.5"/>
 	<item group="DesertEagle" count="1" prob="0.3"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
@@ -256,9 +256,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='70']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
@@ -286,9 +286,9 @@
 <append xpath="/lootcontainers/lootcontainer[@id='100']">
 	<item group="luger" count="1" prob="1.2"/>	
 	<item group="r338sn" count="1" prob="1.2"/>
-	<item group="1911" count="1" prob="0.6"/>
-	<item group="Klob" count="1"prob="0.7"/>
-	<item group="Uzi" count="1"prob="0.7"/>
+	<item group="a1911" count="1" prob="0.6"/>
+	<item group="Klob" count="1" prob="0.7"/>
+	<item group="Uzi" count="1" prob="0.7"/>
 	<item group="MP40" count="1" prob="0.5"/>
 	<item group="DBS" count="1" prob="0.7"/>
 	<item group="Spaz12" count="1" prob="0.3"/>
