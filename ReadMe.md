@@ -13,7 +13,8 @@ Custom Weapons and Attachments (ACOG only at the moment)
 Fully craftable, gated by progression, added to open world loot table, fully repairable/modable, custom audio, custom fire rates, custom damage and modifiers, and best of all, custom sighting.
 This entire mod is writen in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no ingame info text menu. All other UI works/functions perfectly.
 
-Modlet also comes with a placeable Target block with a center mark. Craftable at a very low cost for easy target use with friends! [Preview of how the target works](https://www.youtube.com/watch?v=YNcjQHJT3hE
+Modlet also comes with a placeable Target block with a center mark. Craftable at a very low cost for easy target use with friends! [Preview of how the target works](https://www.youtube.com/watch?v=YNcjQHJT3hE)
+
 ![Main Image](https://imgur.com/a/4Etoqfz)
 
 ## Crafting requirements and information:
