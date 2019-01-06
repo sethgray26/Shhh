@@ -10,7 +10,7 @@
 
 <append xpath="/item_modifiers/item_modifier[@name='modGunSoundSuppressorSilencer']">
 	<item_property_overrides name="Glock 40">
-		<property name="Sound_start" value="silencehigh1"/>
+		<property name="Sound_start" value="silencehigh"/>
 	</item_property_overrides>
 	
 	<item_property_overrides name="1911">
@@ -19,11 +19,11 @@
 	</item_property_overrides>
 	
 	<item_property_overrides name="338 Snubnose">
-		<property name="Sound_start" value="silencehigh1"/>
+		<property name="Sound_start" value="silencedeep"/>
 	</item_property_overrides>
 	
 	<item_property_overrides name="Klob">
-		<property name="Sound_start" value="silencehigh1"/>
+		<property name="Sound_start" value="silenceauto"/>
 	</item_property_overrides>
 	
 	<item_property_overrides name="Uzi">
@@ -31,7 +31,7 @@
 	</item_property_overrides>
 	
 	<item_property_overrides name="Spaz12">
-		<property name="Sound_start" value="silencespaz"/>
+		<property name="Sound_start" value="silencedeep"/>
 	</item_property_overrides>
 	
 	<item_property_overrides name="SCAR">
@@ -43,7 +43,7 @@
 	</item_property_overrides>
 	
 	<item_property_overrides name="M4A1">
-		<property name="Sound_start" value="silencedeep"/>
+		<property name="Sound_start" value="silencelow"/>
 	</item_property_overrides>
 </append>
 
@@ -60,7 +60,7 @@
 		<item_property_overrides name="SCAR">
 			<property name="Meshfile" value="#@modfolder:Resources/Firearms.unity3d?SCARPrefabACOG"/>
 			<property name="CrosshairOnAim" value="false"/>
-			<property name="ScopeOffset" value="0,0,0"/>
+			<property name="ScopeOffset" value="15,0,0"/>
 			<property name="ScopeScale" value="0.7,0.7,0.7"/>
 			<property name="ScopeCameraOffset" value="-0.0007,-0.0232,0.24"/>
 		</item_property_overrides>
