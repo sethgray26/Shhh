@@ -1,0 +1,262 @@
+<configs>
+<!-- Nightstand/Dresser -->
+<append xpath="/lootcontainers/lootcontainer[@id='6']">
+		<item name="338 Snubnose" count="1"/>
+		<item name="338 Bullet" count="8,24"/>
+		<item name="Luger" count="1"/>
+		<item name="9x19mm Bullet" count="8,24"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+</append>
+
+<!-- Safes/weapon caches/rare good loot -->
+<append xpath="/lootcontainers/lootcontainer[@id='11']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Metal desk -->
+<append xpath="/lootcontainers/lootcontainer[@id='24']">
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+</append>
+
+<!-- Supply drop General -->
+<append xpath="/lootcontainers/lootcontainer[@id='34']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Suitcase -->
+<append xpath="/lootcontainers/lootcontainer[@id='36']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Gun Safe -->
+<append xpath="/lootcontainers/lootcontainer[@id='42']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Purse -->
+<append xpath="/lootcontainers/lootcontainer[@id='48']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Shotgun Messiah -->
+<append xpath="/lootcontainers/lootcontainer[@id='42']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+
+
+<!-- Treasure Chest -->
+<append xpath="/lootcontainers/lootcontainer[@id='61']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!--  Zombie Loot 1 -->
+<append xpath="/lootcontainers/lootcontainer[@id='70']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<!-- Zombie Loot 2 -->
+<append xpath="/lootcontainers/lootcontainer[@id='71']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+
+<!-- Weapons Bag Small -->
+<append xpath="/lootcontainers/lootcontainer[@id='100']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+
+<!-- Weapons Bag Large -->
+<append xpath="/lootcontainers/lootcontainer[@id='101']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+
+<!-- Ammo Piles -->
+<append xpath="/lootcontainers/lootcontainer[@id='108']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+<append xpath="/lootcontainers/lootcontainer[@id='109']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+
+<append xpath="/lootcontainers/lootcontainer[@id='110']">
+		<item name="1911" count="1"/>
+		<item name="45ACP Bullet" count="4,16"/>
+		<item name="Glock 40" count="1"/>
+		<item name="40cal Bullet" count="4,16"/>
+		<item name="Klob" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="Uzi" count="1"/>
+		<item name="10mm Bullet" count="12,26"/>
+		<item name="MP 40" count="1"/>
+		<item name="9x19mm Bullet" count="9,21"/>
+		<item name="Double Barrel Shotgun" count="1" prob="70"/>
+		<item name="20 Gauge Shell" count="4,16" prob="0.05"/>
+		<item name="ammoShotgunShell" count="4,16" prob="1.5"/>
+</append>
+
+</configs>
