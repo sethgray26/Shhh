@@ -561,7 +561,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.428"/>
-		<property name="Magazine_items" value="ShotgunShell,ammoShotgunSlug,ammo20 Gauge Shell"/>
+		<property name="Magazine_items" value="ammoShotgunShell,ammoShotgunSlug,20 Gauge Shell"/>
 		<property name="Reload_time" value="2.6"/>
 		<property name="Sound_start" value="dbfire"/>
 		<property name="Sound_repeat" value=""/>
@@ -630,7 +630,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.428"/>
-		<property name="Magazine_items" value="ShotgunShell,ammoShotgunSlug,ammo20 Gauge Shell"/>
+		<property name="Magazine_items" value="ammoShotgunShell,ammoShotgunSlug,20 Gauge Shell"/>
 		<property name="Reload_time" value="2.6"/>
 		<property name="Sound_start" value="spazfire"/>
 		<property name="Sound_repeat" value=""/>
