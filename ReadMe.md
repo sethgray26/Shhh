@@ -28,8 +28,8 @@ All guns and ammo are tied together via progression. When you unlock the firearm
 
 
 [Pistol video](https://www.youtube.com/watch?v=AlLnYDOpWfA)
-- Luger
-- 338 Snubnose
+- Luger 
+- ![338 Snubnose](https://i.imgur.com/LTRczeo.png)
 - 1911
 - Glock 40
 - Desert Eagle
