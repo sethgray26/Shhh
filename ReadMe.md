@@ -28,34 +28,34 @@ All guns and ammo are tied together via progression. When you unlock the firearm
 
 
 [Pistol video](https://www.youtube.com/watch?v=AlLnYDOpWfA)
-- Luger 
-- ![338 Snubnose](https://i.imgur.com/LTRczeo.png)
-- 1911
-- Glock 40
-- Desert Eagle
+- ![Luger](https://i.imgur.com/ACpc1qZ.png)
+- ![338 Snubnose](https://i.imgur.com/lXqHQZb.png)
+- ![1911](https://i.imgur.com/CWfYmUP.png)
+- ![Glock 40](https://i.imgur.com/3oFOQmz.png)
+- ![Desert Eagle](https://i.imgur.com/twnQbvY.png)
 
 
 [SMG and Shotgun video](https://www.youtube.com/watch?v=LpDKkGG8qmY)
-- Uzi
-- Klob
-- MP40
-- Double Barrel Shotgun
-- Spaz12
+- ![Uzi](https://i.imgur.com/JVdjMWt.png)
+- ![Klob](https://i.imgur.com/ak3swso.png)
+- ![MP40](https://i.imgur.com/ETJkmDe.png)
+- ![Double Barrel Shotgun](https://i.imgur.com/U8EC89v.png)
+- ![Spaz12](https://i.imgur.com/m1gWa7Q.png)
 
 [Rifles and ACOG scope video](https://www.youtube.com/watch?v=XfSJtoid9qw&t=1s)
-- Assault Rifle
-- AR15
-- M4A1
-- SCAR
-- M1
+- ![Assault Rifle](https://i.imgur.com/OHpIXjV.png)
+- ![AR15](https://i.imgur.com/66tUYx7.png)
+- ![M4A1](https://i.imgur.com/YChzjDL.png)
+- ![SCAR](https://i.imgur.com/3EGMTbO.png)
+- ![M1](https://i.imgur.com/WHcPzpA.png)
 
 [Large Weapons video](https://www.youtube.com/watch?v=pXYxlZl0lSA)
-- M249 Saw
-- M240
-- M82
+- ![M249 Saw](https://i.imgur.com/OpIjbV9.png)
+- ![M240](https://i.imgur.com/4D9NzDp.png)
+- ![M82](
 
-- Golden Gun
-- Chaingun
+- ![Golden Gun](
+- ![Chaingun](
 
 
 ## CRAFTING COSTS:
